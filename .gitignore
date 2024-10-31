@@ -1,0 +1,12 @@
+# Ignorar la carpeta de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de configuración y credenciales
+.env
+google-key.json
+
+# Ignorar carpetas de sesiones
+*_sessions/
+
+# Ignorar todos los archivos PNG
+*.png

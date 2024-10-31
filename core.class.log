@@ -1,0 +1,196 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492262610132@s.whatsapp.net',
+    fromMe: false,
+    id: '1BACFCFC2525A4F8C35CB5E86C383E00',
+    participant: undefined
+  },
+  messageTimestamp: 1730318235,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5492262610132'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45c9c392-1b68-4287-bb3e-62b3d60d8922',
+  keyword: 'key_a5888178-6d11-46c9-b2e9-c5633c498cb2',
+  answer: '¡Hola! 😊 Gracias por comunicarte conmigo. Estoy aquí para ayudarte en lo que necesites. ¡Vamos a empezar! 🚀\n' +
+    'A continuacion tendras unas opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9748eebd46d4a683da21a704c992a446'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12e6ed37-f3db-4196-8cbd-47c2cd5c05b9',
+  keyword: 'ans_45c9c392-1b68-4287-bb3e-62b3d60d8922',
+  answer: 'Eecribe "oferta" para mostrarte la oferta del dia\n' +
+    'Escribe "Sebastian" para contartar contigo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ab2154b685d22a5a0a68583fe3ae974'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492262610132@s.whatsapp.net',
+    fromMe: false,
+    id: '1EF97504E2BDF9E5046D80819B989FAB',
+    participant: undefined
+  },
+  messageTimestamp: 1730318257,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oferta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Oferta',
+  from: '5492262610132'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac856b6b-7cbf-42f2-ae90-782f385b5326',
+  keyword: 'key_bed5677c-c22a-4279-9bed-2e85d21ec0e2',
+  answer: 'Oferta del dia Milanesa de pollo $5000/kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '064691d70385dc30800c28a6dd413b97'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492262610132@s.whatsapp.net',
+    fromMe: false,
+    id: '6C2E33810430AA9FE0B9E5ECA6CD6808',
+    participant: undefined
+  },
+  messageTimestamp: 1730318274,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sebastian',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sebastian',
+  from: '5492262610132'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45c9c392-1b68-4287-bb3e-62b3d60d8922',
+  keyword: 'key_a5888178-6d11-46c9-b2e9-c5633c498cb2',
+  answer: '¡Hola! 😊 Gracias por comunicarte conmigo. Estoy aquí para ayudarte en lo que necesites. ¡Vamos a empezar! 🚀\n' +
+    'A continuacion tendras unas opciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9748eebd46d4a683da21a704c992a446'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12e6ed37-f3db-4196-8cbd-47c2cd5c05b9',
+  keyword: 'ans_45c9c392-1b68-4287-bb3e-62b3d60d8922',
+  answer: 'Eecribe "oferta" para mostrarte la oferta del dia\n' +
+    'Escribe "Sebastian" para contartar contigo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ab2154b685d22a5a0a68583fe3ae974'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492262610132@s.whatsapp.net',
+    fromMe: false,
+    id: '5C5673A797C54587BD85993E956B1D91',
+    participant: undefined
+  },
+  messageTimestamp: 1730318280,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sebastian',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sebastian',
+  from: '5492262610132'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3773076f-be4b-4e9e-ba3e-be383b3b5d23',
+  keyword: 'key_0ae5a3c5-76ad-4357-8706-c3eb8214f6e2',
+  answer: '¡Hola! 😊 Gracias por tu mensaje. Enseguida te contacto para ayudarte. 🚀',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '562bb28abc64c4a8cc7e65daf7fc39ac'
+}
